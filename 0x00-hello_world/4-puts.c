@@ -1,14 +1,10 @@
-#include <studio.h>
-
+#inc lude <stdio.h>
 /**
- * main - prints "Programming is like building a multilingual puzzle, followed by a new line."
- * Return:Always 0.
+ * main - Entry point
+ * Return:Always 0 (Success)
  */
-
 int main(void)
-
 {
 	Puts("\"Programming is like building a multilingual puzzle");
-
-	return(0);
+	return (0);
 }	
