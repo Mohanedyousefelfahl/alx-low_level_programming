@@ -1,10 +1,11 @@
 #include <stdio.h>
-
 /**
- * Description : main - Prints out a string to stdout.
- * Return: Always 0 if Success
+ * main - Print a C program using printf
+ *
+ * Return: 0
  */
-int main(void){
-printf("with proper grammar, but the outcome is a piece of art,")
-return (0);
+int main(void)
+{	
+	printf("with proper grammar, but the outcome is a piece of art,\n|");
+	return(0);	
 }	
