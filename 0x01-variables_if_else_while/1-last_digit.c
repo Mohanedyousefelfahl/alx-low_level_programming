@@ -7,11 +7,10 @@
 #include <time.h>
 
 /**
- * main - Print the last digit of the number stored in the variable n
+ * main -  Print the last digit of the number stored in the variable n
  *
  * Return: Always 0.
  */
-
 int main(void)
 {
         int n;
