@@ -1,3 +1,7 @@
+/*
+ * File: 1-last_digit.c
+ * Auth: Lahcen Oubbaih
+ */
 #include <stdio.h>
 #include <stdlib.h>
 #include <time.h>
