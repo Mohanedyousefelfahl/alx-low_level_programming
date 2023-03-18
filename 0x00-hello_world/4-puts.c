@@ -1,12 +1,13 @@
 #include <stdio.h>
+
 /**
- * main - point a line of code using puts
+ * main - this is the main function
  *
- * Return: 0 
+ * Return: always 0
  */
 
 int main(void)
 {
-	puts("\"Programming is like building a multilingual puzzle");
+	puts("\"Programming is like building a multilingual puzzle);
 	return (0);
 }	
